@@ -1,0 +1,20 @@
+Copyright (c) 2026 Udgeeth Kaushik. All rights reserved.
+
+This source code, the trained detector model (sms_model.json), the custom
+Hinglish dataset and all related documentation (the "Work") are the original
+work of Udgeeth Kaushik and Riya Maurya, created for the Bharat AI-SoC Challenge (2nd edition).
+
+Permission is granted ONLY to the organisers, mentors and evaluators of the
+Bharat AI-SoC Challenge to view, build and run the Work for the purpose of
+evaluating this submission.
+
+Without prior written permission from the copyright holder, you may NOT copy,
+modify, redistribute, sublicense, sell, or submit this Work (or any part of
+it) as your own, in this or any other competition, course or product.
+
+Third-party components keep their own licenses:
+ - Llama 3.2 model: Llama 3.2 Community License (Built with Llama).
+ - ExecuTorch / LlamaDemo base app: BSD-style license of the PyTorch project.
+ - UCI SMS Spam Collection: per its original terms.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
